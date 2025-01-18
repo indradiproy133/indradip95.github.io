@@ -9,6 +9,7 @@ remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-
+# Google Analytics
+google_analytics: [G-T58J6L3L1S]
 # Customize further settings like logo, social media, etc.
 
