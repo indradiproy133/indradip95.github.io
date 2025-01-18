@@ -1,7 +1,14 @@
 title: "Indradip's Portfolio"
 description: "A personal portfolio to showcase my work and skills."
 url: "https://indradiproy133.github.io/portfolio"  # Leave as it is for GitHub Pages
-theme: jekyll-theme-cayman  # This can be your chosen template name
+
+# theme: jekyll-theme-cayman  # This can be your chosen template name
+# remote_theme: pages-themes/architect@v0.2.0
+# remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 
 # Customize further settings like logo, social media, etc.
 

@@ -4,12 +4,11 @@ title: "Welcome to My Portfolio"
 ---
 # About Me
 
-Hello! I'm [Your Name], a passionate web developer and designer based in [Location].
+Hello! I'm Indradip Roy, a doctorate student at Purdue University.
 
 ## Skills
-- Frontend Development (HTML, CSS, JavaScript)
-- Backend Development (Node.js, Python)
-- Design (Adobe XD, Figma)
+- Computational Fluid Dynamics
+- Languages (Python, C++, Fortran)
 
 ## Projects
 ### Project 1
