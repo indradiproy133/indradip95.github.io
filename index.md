@@ -1,5 +1,5 @@
 ---
-layout: default_architect
+layout: default
 title: "Welcome to My Portfolio"
 ---
 # About Me
